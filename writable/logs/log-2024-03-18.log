@@ -1,0 +1,48 @@
+CRITICAL - 2024-03-18 21:15:00 --> Undefined variable $visitorName
+in APPPATH\Views\profile.php on line 170.
+ 1 APPPATH\Views\profile.php(170): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $visitorName', 'C:\\CI4\\porfolio\\app\\Views\\profile.php', 170)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\CI4\\porfolio\\app\\Views\\profile.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('profile', [], true)
+ 5 APPPATH\Controllers\Home.php(26): view('profile')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->profile()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\CI4\\porfolio\\public\\index.php')
+CRITICAL - 2024-03-18 21:16:54 --> Undefined variable $visitorName
+in APPPATH\Views\welcome_message.php on line 149.
+ 1 APPPATH\Views\welcome_message.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $visitorName', 'C:\\CI4\\porfolio\\app\\Views\\welcome_message.php', 149)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\CI4\\porfolio\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(26): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->profile()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\CI4\\porfolio\\public\\index.php')
+CRITICAL - 2024-03-18 21:17:51 --> Undefined variable $visitorName
+in APPPATH\Views\welcome_message.php on line 149.
+ 1 APPPATH\Views\welcome_message.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $visitorName', 'C:\\CI4\\porfolio\\app\\Views\\welcome_message.php', 149)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\CI4\\porfolio\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(26): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->profile()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\CI4\\porfolio\\public\\index.php')
+CRITICAL - 2024-03-18 21:18:10 --> Undefined variable $visitorName
+in APPPATH\Views\welcome_message.php on line 149.
+ 1 APPPATH\Views\welcome_message.php(149): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $visitorName', 'C:\\CI4\\porfolio\\app\\Views\\welcome_message.php', 149)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\CI4\\porfolio\\app\\Views\\welcome_message.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('welcome_message', [], true)
+ 5 APPPATH\Controllers\Home.php(26): view('welcome_message')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Home->profile()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\CI4\\porfolio\\public\\index.php')
